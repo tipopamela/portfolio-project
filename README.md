@@ -1,5 +1,10 @@
 ![Logo do Git e GitHub](https://pythonforundergradengineers.com/posts/git/images/git_and_github_logo.png)
 
+[Curso](#curso-de-git-e-github) |
+[Módulos](#módulos) |
+[Rede Social](#rede-social) |
+[Comandos](#comando-para-rodar-o-projeto)
+
 # Curso de Git e Github.
 
 Nesse curso foi ensinado a dominar todo **git** e **github** _do zero ao profissional._
