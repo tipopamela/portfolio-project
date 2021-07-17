@@ -16,3 +16,7 @@ Nesse curso foi ensinado a dominar todo **git** e **github** _do zero ao profiss
 ### Rede social:
 
 [**Instagram**](https://instagram.com/tipopamela)
+
+> Este é um blockquote, usado para destacar area.
+>
+> Segunda area destacada.
