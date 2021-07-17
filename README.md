@@ -41,7 +41,7 @@ npm start
 **Exemplo de uso do script**
 
 ```js
-function showname(nome) {
+function showname(name) {
   return 'Bem vindo: ' + name
 }
 ```
