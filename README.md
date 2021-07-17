@@ -6,8 +6,11 @@ Nesse curso foi ensinado a dominar todo **git** e **github** _do zero ao profiss
 
 ## Módulos:
 
-_Entendendo o que é **git**, aprendendo sobre **repositórios**, trabalhando com **branches.**_
+- Começando com Git.
+- Aprendendo sobre branches.
+- Git avançado.
+- Usando GitHub de forma profissional.
 
 ### Rede social:
 
-[Instagram](https://instagram.com/tipopamela)
+[**Instagram**](https://instagram.com/tipopamela)
